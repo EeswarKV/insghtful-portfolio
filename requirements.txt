@@ -8,3 +8,6 @@ simplejson
 yahooquery
 flask_wtf
 flask_bcrypt
+Authlib
+python-dotenv
+requests
